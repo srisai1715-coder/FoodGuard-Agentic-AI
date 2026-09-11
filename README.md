@@ -70,7 +70,8 @@ The uploaded screen recording demonstrates the FoodGuard AI interface and a **tw
 
 ### Demo video
 
-[▶️ Watch the FoodGuard AI demo](docs/foodguard-ai-demo.mp4)
+![FoodGuard AI Demo](docs/foodguard-ai-demo.gif)
+[▶️ Watch the full-quality demo video](docs/foodguard-ai-demo.mp4)
 
 The demonstrated workflow includes:
 
