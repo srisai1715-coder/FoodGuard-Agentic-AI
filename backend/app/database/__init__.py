@@ -1,0 +1,1 @@
+# FoodGuard AI Database Package
