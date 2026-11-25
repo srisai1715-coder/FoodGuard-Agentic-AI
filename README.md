@@ -175,9 +175,7 @@ Here is the complete flow in simple terms:
 ---
 
 # 🧠 Core Engineering Principle
-
 FoodGuard AI follows this principle:
-
 ```text
 LLM
   → reasoning + explanation
@@ -1441,3 +1439,6 @@ FoodGuard AI is designed around a simple idea:
 > **Make food-label information easier to understand by combining AI reasoning with reliable data processing, retrieval, validation and verification.**
 
 **From food labels to better choices — with the power of AI.**
+
+
+
